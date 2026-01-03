@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 20 17:52:22 2025
 
-@author: degal
-"""
 import streamlit as st
 import cv2
 import numpy as np
