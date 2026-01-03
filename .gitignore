@@ -1,0 +1,6 @@
+Data/
+Object Detection.v1i.coco/
+__pycache__/
+*.mp4
+*.pth
+*.pt
