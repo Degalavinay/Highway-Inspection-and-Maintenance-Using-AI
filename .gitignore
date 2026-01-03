@@ -1,6 +1,34 @@
-Data/
-Object Detection.v1i.coco/
+# Python
 __pycache__/
-*.mp4
-*.pth
-*.pt
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large model files (uncomment if you don't want to track them)
+# *.pt
+# *.pth
+# *.onnx
